@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="180" viewBox="0 0 920 180" role="img" aria-label="Agent trajectory replay workflow">
+  <rect width="920" height="180" fill="#f8fafc"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17324d">
+    <rect x="35" y="55" width="145" height="70" rx="8" fill="#e8f0fb" stroke="#8aa4c1"/>
+    <text x="107" y="86" text-anchor="middle">Agent event</text><text x="107" y="106" text-anchor="middle">trace</text>
+    <rect x="220" y="55" width="145" height="70" rx="8" fill="#eef8ed" stroke="#7ba776"/>
+    <text x="292" y="86" text-anchor="middle">Normalize</text><text x="292" y="106" text-anchor="middle">unstable fields</text>
+    <rect x="405" y="55" width="145" height="70" rx="8" fill="#fff4e5" stroke="#c99a54"/>
+    <text x="477" y="86" text-anchor="middle">Replay state</text><text x="477" y="106" text-anchor="middle">handlers</text>
+    <rect x="590" y="55" width="145" height="70" rx="8" fill="#fff4e5" stroke="#c99a54"/>
+    <text x="662" y="86" text-anchor="middle">Diff against</text><text x="662" y="106" text-anchor="middle">baseline</text>
+    <rect x="775" y="55" width="115" height="70" rx="8" fill="#e8f0fb" stroke="#8aa4c1"/>
+    <text x="832" y="86" text-anchor="middle">Regression</text><text x="832" y="106" text-anchor="middle">report</text>
+  </g>
+  <g stroke="#57718c" stroke-width="2" fill="none">
+    <path d="M180 90h38"/><path d="M365 90h38"/><path d="M550 90h38"/><path d="M735 90h38"/>
+  </g>
+</svg>
+

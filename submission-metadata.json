@@ -1,0 +1,12 @@
+{
+  "title": "Agent Trajectory Replay for Debugging Tool-Using AI Workflow Regressions",
+  "author": "Mukunda Rao Katta",
+  "orcid": "https://orcid.org/0009-0007-6071-3896",
+  "resource_type": "software method note",
+  "primary_platform": "Zenodo",
+  "license": "CC BY 4.0",
+  "related_repositories": [
+    "ai-problem-packages/packages/agent-trajectory-replay"
+  ]
+}
+
